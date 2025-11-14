@@ -1,0 +1,822 @@
+{
+  "organizations": [
+    {
+      "id": "moss-clinic",
+      "name": "Lloyd F. Moss Free Clinic",
+      "type": "healthcare",
+      "status": "defunct",
+      "mission": "Provided free medical care and pharmacy services to uninsured adults in Fredericksburg region from 1993-2025",
+      "budget": "$6.8M (2023 expenses)",
+      "revenue": "$2M cash (plus in-kind)",
+      "leadership": [
+        {
+          "name": "Karen Dulaney",
+          "role": "Executive Director (former)",
+          "connections": []
+        },
+        {
+          "name": "Thomas Brashears",
+          "role": "Executive Director (2024)",
+          "connections": []
+        },
+        {
+          "name": "Dr. Patrick Neustatter",
+          "role": "Medical Director",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "Served 7,500 patient visits in 2023",
+        "Dispensed 73,000 prescriptions annually",
+        "Pharmacy hub for 14 free clinics statewide",
+        "Raised $234,000 in emergency fundraising campaign"
+      ],
+      "riskFactors": "CLOSED June 12, 2025 - Lost MWHC in-kind support, donor fatigue, high overhead costs. Immediate closure with 15 minutes notice to staff.",
+      "news": "Closed immediately June 12, 2025 after running out of money. Left significant gap in healthcare access for low-income residents.",
+      "connections": ["mwhc"],
+      "founded": 1993,
+      "employees": "15+ staff",
+      "volunteers": "Numerous medical volunteers"
+    },
+    {
+      "id": "gwyneth-gift",
+      "name": "Gwyneth's Gift Foundation",
+      "type": "healthcare",
+      "status": "stable",
+      "mission": "Improving survival from sudden cardiac arrest through CPR training, AED placement, and awareness programs",
+      "budget": "~$200K annually (estimated)",
+      "leadership": [
+        {
+          "name": "Joel Griffin",
+          "role": "Chairman & Co-founder",
+          "connections": ["legal-aid"]
+        },
+        {
+          "name": "Jennifer Griffin",
+          "role": "President & Co-founder",
+          "connections": []
+        },
+        {
+          "name": "Joe DiStefano",
+          "role": "Board Member",
+          "connections": []
+        },
+        {
+          "name": "Amy Stanford",
+          "role": "Board Member",
+          "connections": ["ymca"]
+        }
+      ],
+      "keyProjects": [
+        "15,000 people trained in Hands-Only CPR",
+        "99 AEDs placed cumulatively",
+        "Gwyneth's Law - mandated AEDs in all VA public schools",
+        "PulsePoint CPR notification app in Stafford County",
+        "Annual Mom Prom fundraising gala",
+        "Healthcare scholarships for students"
+      ],
+      "riskFactors": "Stable with good community support. Risk: maintaining fundraising momentum as founder's story grows distant. Founder-dependent model.",
+      "news": "Continues expanding CPR training programs. Added new board members in 2024.",
+      "connections": ["mwhc"],
+      "founded": 2015,
+      "transparency": "Guidestar Gold Transparency"
+    },
+    {
+      "id": "ruw",
+      "name": "Rappahannock United Way",
+      "type": "philanthropy",
+      "status": "stable",
+      "mission": "Supporting education, financial stability, and health programs. Vision: community where individuals and families achieve their potential",
+      "budget": "$1.67M revenue (FY2024)",
+      "expenses": "$1.91M (FY2024)",
+      "netAssets": "$1.8M in reserves",
+      "leadership": [
+        {
+          "name": "Janel S. Donohue",
+          "role": "President/CEO (~$126K salary)",
+          "connections": []
+        },
+        {
+          "name": "Ron Holmes",
+          "role": "Board Chair (2025-26)",
+          "connections": []
+        },
+        {
+          "name": "Sean Barden",
+          "role": "Treasurer",
+          "connections": []
+        },
+        {
+          "name": "Brooke Miller",
+          "role": "Secretary",
+          "connections": []
+        },
+        {
+          "name": "Sarah Walsh",
+          "role": "Chief Impact Officer",
+          "connections": ["spca", "food-bank"]
+        },
+        {
+          "name": "Kyle Allwine",
+          "role": "Board Member",
+          "connections": ["chamber"]
+        }
+      ],
+      "keyProjects": [
+        "VITA program - 1,000+ families served annually",
+        "Community grants ~$500K per year",
+        "ALICE Report on asset-limited households",
+        "Financial coaching and education workshops",
+        "Year-round free tax preparation",
+        "COVID emergency relief coordination"
+      ],
+      "riskFactors": "Declining workplace donations (national trend). Had $230K deficit in FY2024 covered by reserves. Must diversify fundraising beyond traditional workplace campaigns.",
+      "news": "Expanding individual giving campaigns to offset workplace campaign decline. Helped 800+ people file tax returns in 2024.",
+      "connections": ["legal-aid", "empowerhouse", "habitat", "food-bank", "cf"],
+      "partners": "70+ partner agencies funded"
+    },
+    {
+      "id": "habitat",
+      "name": "Central Rappahannock Habitat for Humanity",
+      "type": "housing",
+      "status": "stable",
+      "mission": "Expanding affordable homeownership for low-income families through volunteer construction and 0% interest mortgages",
+      "budget": "$1.18M revenue (FY2024)",
+      "expenses": "$1.33M (FY2024)",
+      "netAssets": "$3.77M (including property)",
+      "leadership": [
+        {
+          "name": "Jayne Johnson",
+          "role": "Executive Director (20 years experience)",
+          "connections": []
+        },
+        {
+          "name": "Mary Beth Rich",
+          "role": "Board President",
+          "connections": []
+        },
+        {
+          "name": "Dugan Caswell",
+          "role": "Secretary",
+          "connections": []
+        },
+        {
+          "name": "Joyce Lungstrom",
+          "role": "Treasurer",
+          "connections": []
+        },
+        {
+          "name": "Molly Flurry",
+          "role": "Board Member",
+          "connections": ["spca", "for", "food-bank"]
+        },
+        {
+          "name": "Cynthia Avallone",
+          "role": "Board Member",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "2-4 homes built annually",
+        "20-home subdivision planned in Ladysmith, Caroline County",
+        "ReStore thrift operations (~$300K revenue)",
+        "Student-built house at Caroline High School",
+        "Faith Build partnerships with churches",
+        "Home repair program for elderly/disabled",
+        "30th anniversary celebration"
+      ],
+      "riskFactors": "Budget volatility based on build activity. Rising construction costs and land scarcity. Ran modest deficit in FY2024. Must pace builds with fundraising.",
+      "news": "Breaking ground on 9 new homes in Caroline County (2025). Broadening pathways to homeownership with innovative approaches.",
+      "connections": ["ruw", "micah", "for", "cf"],
+      "founded": 1995,
+      "rating": "3 out of 4 stars Charity Navigator"
+    },
+    {
+      "id": "food-bank",
+      "name": "Fredericksburg Regional Food Bank",
+      "type": "food",
+      "status": "moderate",
+      "mission": "Unite central Rappahannock River region in reducing hunger by sourcing and distributing nutritious food",
+      "budget": "$21.7M total revenue (2024) - includes donated food",
+      "cashRevenue": "$2-3M annually",
+      "expenses": "$17.5M (2024)",
+      "netAssets": "$2.36M",
+      "leadership": [
+        {
+          "name": "Dan Maher",
+          "role": "President & CEO",
+          "connections": []
+        },
+        {
+          "name": "Jeremy Bullock",
+          "role": "Board Chair",
+          "connections": []
+        },
+        {
+          "name": "George Barnick",
+          "role": "Vice Chair",
+          "connections": ["spca"]
+        },
+        {
+          "name": "Keith Wampler",
+          "role": "Treasurer (CPA)",
+          "connections": []
+        },
+        {
+          "name": "Sarah Walsh",
+          "role": "Secretary",
+          "connections": ["ruw", "spca"]
+        },
+        {
+          "name": "Tamara Robinson",
+          "role": "Board Member",
+          "connections": ["mwhc"]
+        },
+        {
+          "name": "Johnny Powell",
+          "role": "Board Member",
+          "connections": ["giant-food"]
+        },
+        {
+          "name": "Molly Flurry",
+          "role": "Board Member",
+          "connections": ["spca", "habitat", "for"]
+        }
+      ],
+      "keyProjects": [
+        "4 million meals distributed annually",
+        "70+ partner pantries and agencies",
+        "Kids on the Go summer feeding program",
+        "School Pantry programs",
+        "OrderAhead online grocery ordering (Instacart partnership)",
+        "Hope Heroes Community Kitchen partnership",
+        "Mobile pantries (drive-thru/walk-up)",
+        "Food Pharmacy prescription program",
+        "SNAP outreach and enrollment"
+      ],
+      "riskFactors": "Rising demand with SNAP benefit cuts threatened. Donor fatigue. Inflation increasing operational costs. Heavy reliance on donated food creates inventory volatility.",
+      "news": "Senator Tim Kaine visited to discuss SNAP cut impacts. Requested $165K from localities for FY2026. City increased contribution by $5K.",
+      "connections": ["ruw", "mwhc", "hub-hope", "micah", "cf"],
+      "served": "Thousands food-insecure individuals",
+      "rating": "4 stars Charity Navigator",
+      "employees": "~35 staff"
+    },
+    {
+      "id": "legal-aid",
+      "name": "Legal Aid Works (Rappahannock Legal Services)",
+      "type": "legal",
+      "status": "moderate",
+      "mission": "Ensuring equal access to justice for low-income individuals in critical civil matters: family law, housing, consumer issues, income support",
+      "budget": "$1.7-1.8M annually",
+      "leadership": [
+        {
+          "name": "Ann H. Kloeckner",
+          "role": "Executive Servant-Leader (~$68.9K salary)",
+          "connections": []
+        },
+        {
+          "name": "Joel W. Young",
+          "role": "Board President",
+          "connections": []
+        },
+        {
+          "name": "Joel Griffin",
+          "role": "Board Member",
+          "connections": ["gwyneth-gift"]
+        },
+        {
+          "name": "Sabrina Johnson",
+          "role": "Board Member (J&DR Court Judge)",
+          "connections": ["court"]
+        },
+        {
+          "name": "Gowri Janakiramanan",
+          "role": "Board Member (Immigration Attorney)",
+          "connections": []
+        },
+        {
+          "name": "Alexander Reidell",
+          "role": "Managing Attorney",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "800+ cases annually, 2,000+ people served",
+        "Domestic violence protective orders (2-year orders)",
+        "Housing defense against illegal evictions",
+        "U-Visa assistance for immigrant abuse victims",
+        "Justice for Veterans program",
+        "SSI benefits for disabled individuals",
+        "Consumer protection (debt collection, predatory loans)",
+        "Pro bono attorney coordination",
+        "Free legal clinics"
+      ],
+      "riskFactors": "Federal LSC funding uncertainty (threatened in some budgets). Attorney recruitment challenges due to low salaries. Only 20% of legal needs met. Heavy demand exceeds capacity.",
+      "news": "Expanding domestic violence legal services. Virginia increased state legal aid funding recently.",
+      "connections": ["ruw", "empowerhouse", "micah", "cf"],
+      "founded": 1973,
+      "offices": "Fredericksburg, Tappahannock, Culpeper",
+      "staff": "5-7 attorneys plus paralegals"
+    },
+    {
+      "id": "for",
+      "name": "Friends of the Rappahannock",
+      "type": "environment",
+      "status": "stable",
+      "mission": "Protecting health and scenic integrity of Rappahannock River and watershed through advocacy, restoration, and education",
+      "budget": "$2.0M revenue (2023)",
+      "expenses": "$1.89M (2023)",
+      "netAssets": "$3.0M+ (including land)",
+      "leadership": [
+        {
+          "name": "Daria Christian",
+          "role": "Executive Director (2023)",
+          "connections": []
+        },
+        {
+          "name": "Bryan Hofmann",
+          "role": "Deputy Director",
+          "connections": []
+        },
+        {
+          "name": "Lee Pugh",
+          "role": "Board Chair",
+          "connections": []
+        },
+        {
+          "name": "Tamara Muldrow",
+          "role": "Vice Chair",
+          "connections": []
+        },
+        {
+          "name": "Cynthia Lucero-Chavez",
+          "role": "Secretary",
+          "connections": []
+        },
+        {
+          "name": "Sam Foltz",
+          "role": "Treasurer",
+          "connections": []
+        },
+        {
+          "name": "Molly Flurry",
+          "role": "Board Member",
+          "connections": ["spca", "habitat", "food-bank"]
+        },
+        {
+          "name": "Regis Keddie",
+          "role": "Former Board Member",
+          "connections": ["micah"]
+        }
+      ],
+      "keyProjects": [
+        "40th Anniversary Capital Campaign (~$1.1M)",
+        "River Education Center construction",
+        "Planted tens of thousands of trees in riparian buffers",
+        "Oyster reef restoration (millions of oyster spat)",
+        "Living shorelines installation",
+        "2,500+ students in education programs annually",
+        "Summer Nature Camp",
+        "Annual Riverfest fundraising gala",
+        "Plant One Million partnership",
+        "Legislative advocacy (secured $160M state wastewater funding)"
+      ],
+      "riskFactors": "Grant-dependent funding. Leadership transition (CEO search 2024). Could face cuts if environmental funding drops. Climate change increasing challenges.",
+      "news": "Named Opus Prize finalist ($1M award) for environmental social entrepreneurship. CEO search ongoing.",
+      "connections": ["habitat", "cf"],
+      "founded": 1985,
+      "employees": "~34 staff"
+    },
+    {
+      "id": "spca",
+      "name": "Fredericksburg SPCA",
+      "type": "animal",
+      "status": "stable",
+      "mission": "Providing every animal a chance at a loving home through adoption, and supporting human-animal bond with pet retention programs",
+      "budget": "$1.79M (FY2024)",
+      "revenue": "$1.79M (2024)",
+      "leadership": [
+        {
+          "name": "Laurie Webb",
+          "role": "Executive Director (since 2019)",
+          "connections": []
+        },
+        {
+          "name": "Brad Canova",
+          "role": "Board President",
+          "connections": []
+        },
+        {
+          "name": "George Barnick",
+          "role": "Vice President",
+          "connections": ["food-bank"]
+        },
+        {
+          "name": "David Belman",
+          "role": "Treasurer",
+          "connections": []
+        },
+        {
+          "name": "Sarah Walsh",
+          "role": "Secretary",
+          "connections": ["ruw", "food-bank"]
+        },
+        {
+          "name": "Dr. Gregory Cox",
+          "role": "Board Member (Veterinarian)",
+          "connections": []
+        },
+        {
+          "name": "Molly Flurry",
+          "role": "Board Member",
+          "connections": ["habitat", "for", "food-bank"]
+        },
+        {
+          "name": "Eric Herring",
+          "role": "Board Member",
+          "connections": []
+        },
+        {
+          "name": "Mark Steele",
+          "role": "Board Member (Former MWHC CFO)",
+          "connections": ["mwhc"]
+        }
+      ],
+      "keyProjects": [
+        "No-kill shelter model (>90% save rate)",
+        "Community Medical Center (low-cost veterinary clinic)",
+        "2,000 animals sheltered annually",
+        "Pet Pantry for low-income families",
+        "Pets Program for DV survivors",
+        "Behavior rehabilitation program",
+        "Foster network coordination",
+        "Humane Education summer camps",
+        "Transport partnerships with rural shelters",
+        "Spay/neuter subsidies"
+      ],
+      "riskFactors": "Rising veterinary costs. Staff burnout. Facility at capacity. Need sustained funding for medical center. Veterinarian retention challenges.",
+      "news": "City increased funding $5K for spay/neuter expansion. Won Chamber Nonprofit of the Year 2022.",
+      "connections": ["empowerhouse", "micah", "leashes-valor", "hub-hope"],
+      "localityFunding": "Requested $165K from localities for FY2024"
+    },
+    {
+      "id": "leashes-valor",
+      "name": "Leashes of Valor",
+      "type": "veterans",
+      "status": "moderate",
+      "mission": "Providing highly-trained service dogs to post-9/11 military veterans with PTSD, TBI, and invisible wounds. One leash saves two lives.",
+      "budget": "~$1M annually (estimated)",
+      "costPerDog": "$25,000",
+      "leadership": [
+        {
+          "name": "Jason Haag",
+          "role": "Founder & CEO (Ret. Marine Captain)",
+          "connections": []
+        },
+        {
+          "name": "Samuel Lee Hayes III",
+          "role": "Board Chairman",
+          "connections": ["hub-hope"]
+        },
+        {
+          "name": "Richard Falkenstein",
+          "role": "Treasurer",
+          "connections": ["hub-hope", "spca"]
+        },
+        {
+          "name": "Ashlee Chandler",
+          "role": "Warrior & Foster Coordinator",
+          "connections": []
+        },
+        {
+          "name": "Chris Bowers",
+          "role": "Director of Programs (Marine veteran)",
+          "connections": []
+        },
+        {
+          "name": "Karen Meadows",
+          "role": "Lead K9 Trainer",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "50+ veteran-dog teams paired",
+        "Zero suicides among graduates",
+        "Axel's Place 10-acre training facility (opened 2023)",
+        "7-day intensive veteran training",
+        "9+ months dog training per animal",
+        "Rescue dogs from shelters",
+        "Valor Cup golf tournament fundraiser",
+        "National advocacy for service dog funding"
+      ],
+      "riskFactors": "High per-dog cost ($25K). Founder-centric model. Continuous fundraising required to scale. No guaranteed government funding yet. Small budget relative to need.",
+      "news": "Celebrated 50th service dog team graduation. Axel's Place facility operational. PAWS Act advocacy for federal funding.",
+      "connections": ["spca"],
+      "founded": 2017,
+      "graduates": "10-15 teams annually"
+    },
+    {
+      "id": "micah",
+      "name": "Micah Ecumenical Ministries",
+      "type": "housing",
+      "status": "stable",
+      "mission": "Ending homelessness through Housing First approach. Do justice, love mercy, walk humbly.",
+      "budget": "$3.5M revenue (2023)",
+      "expenses": "$3.0M (2023)",
+      "leadership": [
+        {
+          "name": "Meghann Cotter",
+          "role": "Executive Servant-Leader (~$72K salary)",
+          "connections": []
+        },
+        {
+          "name": "Clay Murray",
+          "role": "Board Chair",
+          "connections": []
+        },
+        {
+          "name": "Fred Rankin",
+          "role": "Board Member (Retired MWHC CEO)",
+          "connections": ["mwhc", "for"]
+        },
+        {
+          "name": "Rev. David Haun",
+          "role": "Board Member",
+          "connections": []
+        },
+        {
+          "name": "Rev. Tim Tate",
+          "role": "Board Member",
+          "connections": []
+        },
+        {
+          "name": "Regis Keddie",
+          "role": "Board Member",
+          "connections": ["for"]
+        },
+        {
+          "name": "Peg Phillips",
+          "role": "Neighbor Care Servant-Leader",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "Hesed House 80-room bridge housing (former motel)",
+        "260+ people moved to permanent housing",
+        "97% housing retention rate",
+        "Hospitality Center day services (42,000 visits/year)",
+        "Medical respite program (partnership with MWHC $135K)",
+        "Cold weather shelter (80 nightly)",
+        "5,000+ showers/year",
+        "Employment partnership with Goodwill (35+ jobs)",
+        "SOAR SSI assistance (20+ approved)",
+        "Street Church weekly worship",
+        "Jeremiah Community tiny homes proposal"
+      ],
+      "riskFactors": "Complex programs dependent on multiple funding streams. HUD or MWHC funding cuts would hurt. Staff burnout. Founder-dependent leadership. Rising rents strain subsidy budgets.",
+      "news": "Opus Prize finalist for Jeremiah Community innovation. Chronic homelessness reduced 24% locally. Secured ARPA grant for Hesed House.",
+      "connections": ["ruw", "legal-aid", "food-bank", "empowerhouse", "mwhc", "spca", "hub-hope", "cf"],
+      "founded": 2005,
+      "employees": "~45 staff",
+      "churches": "Founded by 8 downtown congregations"
+    },
+    {
+      "id": "cf",
+      "name": "Community Foundation of Rappahannock River Region",
+      "type": "philanthropy",
+      "status": "stable",
+      "mission": "Supporting philanthropic wishes of donors and investing in community through grants and scholarships",
+      "budget": "$60M+ in assets under management",
+      "annualGrants": "$2.8M+ in grants annually",
+      "revenue": "$1.53M (2024)",
+      "expenses": "$1.17M (2024)",
+      "leadership": [
+        {
+          "name": "Teri McNally",
+          "role": "Founding CEO (Retired 2020, ~$162K salary)",
+          "connections": []
+        },
+        {
+          "name": "Bruce Davis",
+          "role": "Board President (former GEICO executive)",
+          "connections": []
+        },
+        {
+          "name": "Jamie Scully",
+          "role": "Former Board Chair",
+          "connections": []
+        },
+        {
+          "name": "Kimberly Young",
+          "role": "Board Member",
+          "connections": ["umw"]
+        },
+        {
+          "name": "Lisa Baxter",
+          "role": "Finance Director",
+          "connections": []
+        },
+        {
+          "name": "Casey Hu",
+          "role": "Donor Services Director",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "220+ donor-advised funds",
+        "Scholarships ~$500K/year to students",
+        "COVID Emergency Relief Fund ($500K raised)",
+        "Youth in Philanthropy program",
+        "Local Legends Awards",
+        "Community competitive grant cycle (13 funds)",
+        "Capacity-building grants for nonprofits",
+        "Legacy giving programs"
+      ],
+      "riskFactors": "Leadership transition ongoing since 2021 (CEO search). Market-dependent returns. Competition from national DAF platforms. Extended interim could slow momentum.",
+      "news": "National CEO search continues for McNally replacement. Assets grown from $1M (1997) to $60M (2025).",
+      "connections": ["ruw", "empowerhouse", "food-bank", "habitat", "for", "micah"],
+      "founded": 1997,
+      "funds": "Field-of-interest, donor-advised, scholarship, endowment"
+    },
+    {
+      "id": "empowerhouse",
+      "name": "Empowerhouse (Rappahannock Council on Domestic Violence)",
+      "type": "legal",
+      "status": "stable",
+      "mission": "Empowering domestic violence survivors through 24-hour hotline, emergency shelter, transitional housing, counseling, advocacy, and prevention education",
+      "budget": "$1.5-1.8M annually",
+      "leadership": [
+        {
+          "name": "Kathy Anderson",
+          "role": "Executive Director (30 years)",
+          "connections": []
+        },
+        {
+          "name": "Donna Newell",
+          "role": "Board President",
+          "connections": []
+        },
+        {
+          "name": "David Rodriguez",
+          "role": "Treasurer",
+          "connections": []
+        },
+        {
+          "name": "Lt. Troy Skebo",
+          "role": "Board Member",
+          "connections": ["police"]
+        }
+      ],
+      "keyProjects": [
+        "3,000+ survivors served annually",
+        "15,000+ nights of safe shelter",
+        "300+ protective orders obtained",
+        "Lethality Assessment Program (LAP) with all 5 jurisdictions",
+        "Children's trauma counseling",
+        "Batterer Intervention Program",
+        "Economic Empowerment Program (Goodwill partnership)",
+        "Prevention education (5,000 students annually)",
+        "Domestic Violence Task Force coordination",
+        "Court advocacy",
+        "New 8,000 sq ft shelter (2019)"
+      ],
+      "riskFactors": "VOCA federal funding cuts threatened. Shelter often at capacity. Staff vicarious trauma. Demand exceeds capacity. Grant-dependent funding.",
+      "news": "New shelter doubled capacity (2019). Local domestic homicides decreased with LAP program implementation.",
+      "connections": ["ruw", "legal-aid", "spca", "micah", "cf"],
+      "founded": "40+ years",
+      "capitalCampaign": "$2M+ raised for new shelter"
+    },
+    {
+      "id": "hub-hope",
+      "name": "Hub of Hope",
+      "type": "food",
+      "status": "moderate",
+      "mission": "Fighting food insecurity by providing short-term home-delivered meals to people in crisis (veterans, seniors, children). Helping Other People Eat.",
+      "budget": "~$200K (2022, estimated)",
+      "leadership": [
+        {
+          "name": "Deedre Stinson",
+          "role": "CEO",
+          "connections": []
+        },
+        {
+          "name": "Samuel Lee Hayes III",
+          "role": "Board Chairman",
+          "connections": ["leashes-valor"]
+        },
+        {
+          "name": "Richard Falkenstein",
+          "role": "Treasurer",
+          "connections": ["leashes-valor", "spca"]
+        },
+        {
+          "name": "Fred Edwards",
+          "role": "Board Member (Chef)",
+          "connections": []
+        },
+        {
+          "name": "Kristen Greene",
+          "role": "Board Member",
+          "connections": []
+        }
+      ],
+      "keyProjects": [
+        "Hope for 30 program (up to 30 days of meals)",
+        "5,000+ meals served (2022)",
+        "Hope Heroes Southern Kitchen café (groundbreaking 2023)",
+        "Home delivery to homebound individuals",
+        "Focus on veterans and seniors",
+        "Community cookout events",
+        "Holiday meal drives (turkey dinners)",
+        "Volunteer cooking marathons"
+      ],
+      "riskFactors": "New organization (founded ~2020). Volunteer-dependent. Café venture financial risk. Small budget. Founder-centric. Need to establish revenue streams.",
+      "news": "Broke ground on Hope Heroes Kitchen 2023. Partnership with Bowman Distillery. Won $10K REC Power of Change grant.",
+      "connections": ["food-bank", "micah", "spca"],
+      "founded": "~2020",
+      "model": "Volunteer-driven with donated ingredients"
+    }
+  ],
+  "keyPeople": [
+    {
+      "id": "molly-flurry",
+      "name": "Molly Flurry",
+      "organizations": ["spca", "habitat", "for", "food-bank"],
+      "role": "Attorney and multi-board volunteer (4 boards)",
+      "description": "Most connected individual in non-profit network. Brings legal expertise and bridges animal welfare, housing, environment, and food security sectors."
+    },
+    {
+      "id": "sarah-walsh",
+      "name": "Sarah Walsh",
+      "organizations": ["ruw", "spca", "food-bank"],
+      "role": "RUW Chief Impact Officer (3 boards)",
+      "description": "Key connector between philanthropic coordination and direct service organizations. Professional nonprofit leadership expertise."
+    },
+    {
+      "id": "joel-griffin",
+      "name": "Joel Griffin",
+      "organizations": ["gwyneth-gift", "legal-aid"],
+      "role": "Entrepreneur, philanthropist, and co-founder (2 boards)",
+      "description": "Well-known local entrepreneur whose personal tragedy led to founding Gwyneth's Gift. Bridges healthcare and legal sectors."
+    },
+    {
+      "id": "fred-rankin",
+      "name": "Fred Rankin",
+      "organizations": ["micah", "mwhc", "for"],
+      "role": "Retired Mary Washington Healthcare CEO (3 connections)",
+      "description": "Former hospital CEO leveraging healthcare expertise to support homeless services and environmental protection. Vocal advocate for multiple causes."
+    },
+    {
+      "id": "george-barnick",
+      "name": "George Barnick",
+      "organizations": ["spca", "food-bank"],
+      "role": "Technology entrepreneur (2 boards)",
+      "description": "Local tech business owner bringing IT skills and business acumen to animal welfare and hunger relief efforts."
+    },
+    {
+      "id": "regis-keddie",
+      "name": "Regis Keddie",
+      "organizations": ["micah", "for"],
+      "role": "Financial advisor (2 boards)",
+      "description": "Davenport financial advisor connecting homeless services with environmental advocacy. Brings financial expertise to both boards."
+    },
+    {
+      "id": "hayes-samuel",
+      "name": "Samuel Lee Hayes III",
+      "organizations": ["leashes-valor", "hub-hope"],
+      "role": "Retired Marine Corps officer, community volunteer (2 boards)",
+      "description": "Veteran leader connecting service dog programs with meal delivery initiatives. Active in Masonic Lodge and veteran networks."
+    },
+    {
+      "id": "falkenstein",
+      "name": "Richard Falkenstein",
+      "organizations": ["leashes-valor", "hub-hope", "spca"],
+      "role": "Business leader, Chamber member (3 boards)",
+      "description": "Bridges business community with veteran services, food security, and animal welfare. Chamber of Commerce connection facilitates corporate engagement."
+    }
+  ],
+  "metadata": {
+    "totalOrganizations": 13,
+    "totalKeyPeople": 8,
+    "sectors": {
+      "healthcare": 2,
+      "housing": 2,
+      "food": 2,
+      "legal": 2,
+      "environment": 1,
+      "animal": 1,
+      "veterans": 1,
+      "philanthropy": 2
+    },
+    "riskLevels": {
+      "defunct": 1,
+      "high": 0,
+      "moderate": 4,
+      "stable": 8
+    },
+    "totalBudget": "~$100M+ (including in-kind donations)",
+    "sourceDocument": "nonprofits.pdf - Significance of Fredericksburg's Non-Profit Sector",
+    "dataDate": "2025",
+    "region": "Fredericksburg, Virginia and Planning District 16"
+  }
+}
